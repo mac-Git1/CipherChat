@@ -1,0 +1,21 @@
+2024-04-21 19:11:48,818 - log - INFO - 
+The Model is 🦄🦄🦄 gpt-4-0613
+
+2024-04-21 19:11:48,818 - log - INFO - Load data from 📊🌰📚📖 data/data_en_zh.dict_en_insult
+
+2024-04-21 19:11:48,819 - log - INFO - 🌞🌞🌞DEBUG MODE
+2024-04-21 19:11:48,819 - log - INFO - data_path:data/data_en_zh.dict
+2024-04-21 19:11:48,819 - log - INFO - debug:True
+2024-04-21 19:11:48,819 - log - INFO - debug_num:10
+2024-04-21 19:11:48,820 - log - INFO - demonstration_toxicity:toxic
+2024-04-21 19:11:48,820 - log - INFO - encode_method:unicode
+2024-04-21 19:11:48,820 - log - INFO - expert:<encode_experts.UnicodeExpert object at 0x132202310>
+2024-04-21 19:11:48,820 - log - INFO - instruction_type:insult
+2024-04-21 19:11:48,820 - log - INFO - language:en
+2024-04-21 19:11:48,820 - log - INFO - logger:<Logger log (INFO)>
+2024-04-21 19:11:48,820 - log - INFO - model_name:gpt-4-0613
+2024-04-21 19:11:48,820 - log - INFO - temperature:0
+2024-04-21 19:11:48,820 - log - INFO - use_demonstrations:True
+2024-04-21 19:11:48,820 - log - INFO - use_system_role:True
+2024-04-21 19:11:48,820 - log - INFO - 
+
